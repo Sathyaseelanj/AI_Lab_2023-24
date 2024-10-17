@@ -1,5 +1,4 @@
 # Ex.No: 9  Logic Programming –  Computer Maintenance Expert System
-### DATE: 23.03.2024                                                                          
 ### REGISTER NUMBER : 212222060233
 ### AIM: 
 Write a Prolog program to build a computer maintenance expert system.
@@ -40,7 +39,18 @@ problem(two_short_beeps).
 problem(blank_display).
 ```
 ### Output:
-![Screenshot 2024-03-29 231759](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/6044f6eb-d44d-43ae-a3d8-162b57ae5440)
+
+![ComputerMaintenance_1](https://github.com/user-attachments/assets/1ea9e07d-3ea9-4a82-9384-7e5aa1d6be1c)
+
+![ComputerMaintenance_2](https://github.com/user-attachments/assets/f6d6c430-cbb5-4a6a-8879-6966c9abe356)
+
+![ComputerMaintenance_3](https://github.com/user-attachments/assets/f1de32e9-b2cb-453d-b917-eca78fe7bf76)
+
+![ComputerMaintenance_4](https://github.com/user-attachments/assets/77b5e8cc-c77e-4103-9264-3d0722219b58)
+
+![ComputerMaintenance_5](https://github.com/user-attachments/assets/ab59bee1-5137-4d98-be2b-0cfe889d7081)
+
+
 
 
 
