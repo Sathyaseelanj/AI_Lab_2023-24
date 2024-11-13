@@ -1,4 +1,4 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 mini project-Malware detction with machine learning.
 ### DATE: 11.11.2024                                                                           
 ### REGISTER NUMBER : 212222060233
 ### AIM: 
