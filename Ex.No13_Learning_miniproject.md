@@ -72,6 +72,7 @@ print(classification_report(y_test, y_pred, target_names=['Benign', 'Malware']))
 
 ### Output:
 
+![sathya](output.png)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
